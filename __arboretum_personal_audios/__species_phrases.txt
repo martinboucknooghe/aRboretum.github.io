@@ -1,0 +1,133 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                            SPECIES PHRASES                                 ║
+║                       Generated with aRboretum on: 2026-06-10              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+┌─Poecilanthe fluminensis
+│  Family: Fabaceae
+│
+│  ► Portuguese:
+│     Poecilanthe fluminensis pertence à família Fabaceae. Endêmica
+│     do sudeste do Brasil, ela só é encontrada no estado Rio de
+│     Janeiro. Uma verdadeira joia rara! Portanto, ela também é
+│     nativa, crescendo naturalmente sem intervenção humana. Ela
+│     habita Mata Atlântica, mais especificamente, esta espécie gosta
+│     de crescer em um tipo de vegetação particular, Floresta
+│     Ombrófila.
+│
+│  ► English:
+│     Poecilanthe fluminensis belongs to Fabaceae family. Endemic to
+│     Brazil Southeast, it is only found in Rio de Janeiro. A true
+│     rare gem! It is therefore also native; it grows there naturally
+│     without human intervention. It inhabits the Atlantic Forest,
+│     more specifically, this species likes to grow in a particular
+│     vegetation type, rainforest.
+│
+│  ► French:
+│     Poecilanthe fluminensis appartient à la famille Fabaceae.
+│     Endémique du sud-est du Brésil, on ne la retrouve que dans
+│     l'état Rio de Janeiro. Un vrai joyau rare! Elle y est donc
+│     aussi native, elle y pousse naturellement sans intervention
+│     humaine. Elle habite Forêt Atlantique, plus spécifiquement,
+│     cette espèce aime pousser dans un type de végétation
+│     particulier, forêt ombrophile.
+│
+│  ► Spanish:
+│     Poecilanthe fluminensis pertenece a la familia Fabaceae.
+│     Endémica del sudeste de Brasil, solo se encuentra en ese estado
+│     Rio de Janeiro. Una verdadera joya rara! Por lo tanto, también
+│     es autóctona, es decir, donde crece de forma natural sin
+│     intervención humana. Habita Mata Atlántica, más
+│     específicamente, esta especie le gusta crecer en un tipo de
+│     vegetación particular, Selva Ombrófila.
+│
+└────────────────────────
+
+
+┌─Styphnolobium japonicum
+│  Family: Fabaceae
+│
+│  ► Portuguese:
+│     Styphnolobium japonicum pertence à família Fabaceae. Esta
+│     espécie é endêmica do China. Esta planta também foi introduzida
+│     em vários países ao redor do mundo, como França e Carolina do
+│     Norte.
+│
+│  ► English:
+│     Styphnolobium japonicum belongs to Fabaceae family. This
+│     species is endemic to China. This plant has also been
+│     introduced to several countries around the world like India and
+│     Turkmenistan.
+│
+│  ► French:
+│     Styphnolobium japonicum appartient à la famille Fabaceae. Cette
+│     espèce est endémique du China. Cette plante a également été
+│     introduite dans plusieurs pays du monde, comme Ukraine et
+│     Caroline du Nord.
+│
+│  ► Spanish:
+│     Styphnolobium japonicum pertenece a la familia Fabaceae. Esta
+│     especie es endémica del China. Esta planta también ha sido
+│     introducida en varios países del mundo, como Rusia meridional
+│     europea y Japón.
+│
+└────────────────────────
+
+
+┌─Thinicola incana
+│  Family: Fabaceae
+│
+│  ► Portuguese:
+│     Thinicola incana pertence à família Fabaceae. Endêmica do
+│     Western Australia, ela só é encontrada no estado NA. Uma
+│     verdadeira joia rara!
+│
+│  ► English:
+│     Thinicola incana belongs to Fabaceae family. Endemic to Western
+│     Australia, it is only found in NA. A true rare gem!
+│
+│  ► French:
+│     Thinicola incana appartient à la famille Fabaceae. Endémique du
+│     Western Australia, on ne la retrouve que dans l'état NA. Un
+│     vrai joyau rare!
+│
+│  ► Spanish:
+│     Thinicola incana pertenece a la familia Fabaceae. Endémica del
+│     Western Australia, solo se encuentra en ese estado NA. Una
+│     verdadera joya rara!
+│
+└─────────────────
+
+
+┌─Quercus helferiana
+│  Family: Fagaceae
+│
+│  ► Portuguese:
+│     Quercus helferiana pertence à família Fagaceae. Esta espécie é
+│     encontrada em vários países como Butão ou Vietnã. A União
+│     Internacional para a Conservação da Natureza (IUCN) classificou
+│     esta espécie como pouco preocupante (LC).
+│
+│  ► English:
+│     Quercus helferiana belongs to Fagaceae family. This species is
+│     found in several countries such as China or India. The
+│     International Union for Conservation of Nature (IUCN) has
+│     classified this species as least concern (LC).
+│
+│  ► French:
+│     Quercus helferiana appartient à la famille Fagaceae. Cette
+│     espèce se trouve dans plusieurs pays tels que Inde ou
+│     Thaïlande. L'Union internationale pour la conservation de la
+│     nature (IUCN) a classé cette espèce comme préoccupation mineure
+│     (LC).
+│
+│  ► Spanish:
+│     Quercus helferiana pertenece a la familia Fagaceae. Esta
+│     especie se encuentra en varios países como Bután o Myanmar. La
+│     Unión Internacional para la Conservación de la Naturaleza
+│     (IUCN) ha clasificado esta especie como preocupación menor
+│     (LC).
+│
+└───────────────────
+
